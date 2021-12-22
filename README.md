@@ -1,3 +1,3 @@
-# dbt + Airbyte用サンプル
+# dbt + Airbyte
 
-Poke API からミュウツーのデータを取得して、技について詳しく調べてみる。
+Get the data of Mewtwo from the PokeAPI and explore the moves in detail.
